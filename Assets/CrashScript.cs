@@ -9,7 +9,7 @@ public class CrashScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update(fezfez)dqd
+    void Update(fezfefesfsfsefz)dqd
     {efzfedesc
         
     }
