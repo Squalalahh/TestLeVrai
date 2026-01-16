@@ -11,6 +11,7 @@ public class CrashScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-     Debug.Log("Atroce");   
+     Debug.Log("Atroce"); 
+     Debug.Log(transform.position);
     }
 }
