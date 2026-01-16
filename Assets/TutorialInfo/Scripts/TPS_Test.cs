@@ -1,17 +1,18 @@
 using UnityEngine;
 
-public class CrashScript : MonoBehaviour
+public class TPS_Test : MonoBehaviour
 {
+    public float _movement;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("UNGA BUNGA");
+        
     }
 
     // Update is called once per frame
     void Update()
     {
         
-
     }
 }
